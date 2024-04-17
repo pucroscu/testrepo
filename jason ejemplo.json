@@ -1,0 +1,189 @@
+[
+    {
+        "id": 17.0,
+        "codeHomologate": "354",
+        "name": "desarrollo",
+        "mask": "d",
+        "regex": "([A-Z])\\w+",
+        "isRemovable": true,
+        "state": true,
+        "idUserCreator": 352,
+        "dateCreated": "2021-02-15T18:10:50.385402"
+    },
+    {
+        "id": 11.0,
+        "codeHomologate": "11",
+        "name": "Permiso especial de permanencia",
+        "mask": "PEP",
+        "regex": "^([1-9][0-9]{4,20})$",
+        "isRemovable": false,
+        "state": true,
+        "idUserCreator": 1,
+        "dateCreated": "2021-01-25T22:29:17.8332022"
+    },
+    {
+        "id": 14.0,
+        "codeHomologate": "14",
+        "name": "Permiso de Permanencia",
+        "mask": "PE",
+        "regex": "^([1-9][0-9]{4,20})$",
+        "isRemovable": false,
+        "state": true,
+        "idUserCreator": 1,
+        "dateCreated": "2021-01-25T22:29:17.8332027"
+    },
+    {
+        "id": 15.0,
+        "codeHomologate": "15",
+        "name": "Salvo Conducto",
+        "mask": "SC",
+        "regex": "^([1-9][0-9]{4,20})$",
+        "isRemovable": false,
+        "state": true,
+        "idUserCreator": 1,
+        "dateCreated": "2021-01-25T22:29:17.8332028"
+    },
+    {
+        "id": 9.0,
+        "codeHomologate": "09",
+        "name": "Carnet Diplomático",
+        "mask": "DIP",
+        "regex": "^([1-9][0-9]{4,20})$",
+        "isRemovable": false,
+        "state": true,
+        "idUserCreator": 1,
+        "dateCreated": "2021-01-25T22:29:17.8331974"
+    },
+    {
+        "id": 10.0,
+        "codeHomologate": "10",
+        "name": "Menor sin identificación",
+        "mask": "ME",
+        "regex": "^([1-9][0-9]{4,20})$",
+        "isRemovable": false,
+        "state": true,
+        "idUserCreator": 1,
+        "dateCreated": "2021-01-25T22:29:17.833202"
+    },
+    {
+        "id": 8.0,
+        "codeHomologate": "08",
+        "name": "Pasaporte de la ONU",
+        "mask": "PONU",
+        "regex": "^([1-9][0-9]{4,20})$",
+        "isRemovable": false,
+        "state": true,
+        "idUserCreator": 1,
+        "dateCreated": "2021-01-25T22:29:17.8331973"
+    },
+    {
+        "id": 6.0,
+        "codeHomologate": "06",
+        "name": "Número de Identificación Tributaria",
+        "mask": "NIT",
+        "regex": "^([1-9][0-9]{4,20})$",
+        "isRemovable": false,
+        "state": true,
+        "idUserCreator": 1,
+        "dateCreated": "2021-01-25T22:29:17.833197"
+    },
+    {
+        "id": 1.0,
+        "codeHomologate": "01",
+        "name": "Cédula",
+        "mask": "CC",
+        "regex": "^([1-9][0-9]{3,20})$",
+        "isRemovable": false,
+        "state": true,
+        "idUserCreator": 1,
+        "dateCreated": "2021-01-25T22:29:17.8315998"
+    },
+    {
+        "id": 4.0,
+        "codeHomologate": "04",
+        "name": "Pasaporte",
+        "mask": "PAS",
+        "regex": "^([1-9][0-9]{4,20})$",
+        "isRemovable": false,
+        "state": true,
+        "idUserCreator": 1,
+        "dateCreated": "2021-01-25T22:29:17.8331963"
+    },
+    {
+        "id": 2.0,
+        "codeHomologate": "02",
+        "name": "Cédula Extranjería",
+        "mask": "CE",
+        "regex": "^([1-9][0-9]{4,20})$",
+        "isRemovable": false,
+        "state": true,
+        "idUserCreator": 1,
+        "dateCreated": "2021-01-25T22:29:17.8331934"
+    },
+    {
+        "id": 12.0,
+        "codeHomologate": "12",
+        "name": "Adulto Sin Identificación",
+        "mask": "AS",
+        "regex": "^([1-9][0-9]{4,20})$",
+        "isRemovable": false,
+        "state": true,
+        "idUserCreator": 1,
+        "dateCreated": "2021-01-25T22:29:17.8332024"
+    },
+    {
+        "id": 3.0,
+        "codeHomologate": "03",
+        "name": "Tarjeta de Identidad",
+        "mask": "TI",
+        "regex": "^([1-9][0-9]{4,20})$",
+        "isRemovable": false,
+        "state": true,
+        "idUserCreator": 1,
+        "dateCreated": "2021-01-25T22:29:17.833196"
+    },
+    {
+        "id": 7.0,
+        "codeHomologate": "07",
+        "name": "Otro",
+        "mask": "CU",
+        "regex": "^([1-9][0-9]{4,20})$",
+        "isRemovable": false,
+        "state": true,
+        "idUserCreator": 1,
+        "dateCreated": "2021-01-25T22:29:17.8331971"
+    },
+    {
+        "id": 13.0,
+        "codeHomologate": "13",
+        "name": "Nacido Vivo",
+        "mask": "CN",
+        "regex": "^([1-9][0-9]{4,20})$",
+        "isRemovable": false,
+        "state": true,
+        "idUserCreator": 1,
+        "dateCreated": "2021-01-25T22:29:17.8332026"
+    },
+    {
+        "id": 16.0,
+        "codeHomologate": "4",
+        "name": "Prueba ",
+        "mask": "8",
+        "regex": "dsdsdsa",
+        "isRemovable": true,
+        "state": true,
+        "idUserCreator": 352,
+        "dateCreated": "2021-02-15T15:48:15.686611"
+    },
+    {
+        "id": 5.0,
+        "codeHomologate": "05",
+        "name": "Registro Civil",
+        "mask": "RC",
+        "regex": "^([1-9][0-9]{4,20})$",
+        "isRemovable": false,
+        "state": true,
+        "idUserCreator": 1,
+        "dateCreated": "2021-01-25T22:29:17.8331964"
+    }
+]
